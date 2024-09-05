@@ -3,7 +3,7 @@
 - I'm from Iran...and I can speak Persian , English , and french is on the way...;
 -
 - 👀 I’m interested in SelfDev , computer , entrepreneurship- 
-- 🌱 I’m currently learning Ruby & Sales
+- 🌱 I’m currently learning Python & Sales & business in general
 - 
 - 📫 You can reach me on snipguy.business@gmail.com
 
